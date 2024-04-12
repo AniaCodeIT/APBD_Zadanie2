@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\annap\AppData\Local\JetBrains\Rider2024.1\resharper-host\temp\Rider\vAny\CoverageData\_RefactoringExample.-290377920\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=56122680_002Dc4bd_002D41fb_002Da1a8_002Df5723afc8b28/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddUser_Should_Return_False_When_Email_Without_At_And_Dot" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8E9236E-5700-44B2-B907-B8527EFD7FDB::net8.0::LegacyAppTest.UserServiceTest.AddUser_Should_Return_False_When_Email_Without_At_And_Dot&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8E9236E-5700-44B2-B907-B8527EFD7FDB::net8.0::LegacyAppTest.UserServiceTest.AddUser_Should_Return_False_When_Missing_FirstName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8E9236E-5700-44B2-B907-B8527EFD7FDB::net8.0::LegacyAppTest.UserServiceTest.AddUser_Should_Return_False_When_Younger_Than_21_Years_Old&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8E9236E-5700-44B2-B907-B8527EFD7FDB::net8.0::LegacyAppTest.UserServiceTest.AddUser_Should_Return_True_When_Important_Client&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8E9236E-5700-44B2-B907-B8527EFD7FDB::net8.0::LegacyAppTest.UserServiceTest.AddUser_Should_Return_True_When_Normal_Client&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8E9236E-5700-44B2-B907-B8527EFD7FDB::net8.0::LegacyAppTest.UserServiceTest.AddUser_Should_Return_False_When_Normal_Client&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8E9236E-5700-44B2-B907-B8527EFD7FDB::net8.0::LegacyAppTest.UserServiceTest.AddUser_Should_Return_True_When_Very_Important_Client&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8E9236E-5700-44B2-B907-B8527EFD7FDB::net8.0::LegacyAppTest.UserServiceTest.AddUser_Should_Throw_Exception_When_User_Does_Not_Exist&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
